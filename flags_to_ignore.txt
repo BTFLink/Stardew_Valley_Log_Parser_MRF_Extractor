@@ -1,0 +1,7 @@
+TRACE Generic Mod Config Menu]
+TRACE game]
+TRACE SMAPI]
+TRACE Content Patcher]
+TRACE To-Dew]
+INFO  UI Info Suite 2]
+DEBUG Fashion Sense]
